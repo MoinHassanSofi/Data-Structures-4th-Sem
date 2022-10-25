@@ -1,7 +1,7 @@
 /*
 Linked List: Dynamic Memory Allocation
-Name : Aasim Ashraf
-Roll No : CSE-20-LE-63
+
+moin hassan
 */
 
 #include<iostream>
