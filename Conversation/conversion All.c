@@ -1,7 +1,7 @@
 /*
-Name : Aasim Ashraf;
-Roll No: CSE-20-LE-63;
-Sem : 4th;
+Name : Moin hassan;
+Roll No: CSE-20-45;
+Sem : 4th
 */
 
 #include <stdio.h>
