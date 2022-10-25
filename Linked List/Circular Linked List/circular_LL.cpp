@@ -1,8 +1,5 @@
-/*
-Name : Aasim Ashraf;
-Roll No : CSE-20-LE-63;
-Sem : 4th;
-*/
+
+
 
 
 #include<iostream>
